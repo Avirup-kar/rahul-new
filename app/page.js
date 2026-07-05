@@ -236,7 +236,7 @@ gsap.to('.hi', {
     </div>
     <div className='second w-full min-h-3/4  flex flex-wrap justify-center gap-5 pb-7 overflow-hidden'>
         <div className='w-[300px] h-[400px] bg-gradient-to-br from-[#2f2f2f] to-[#101010] pb-7 rounded-2xl shadow-[0px 0px 40px 10px gray] relative  m-5' style={{ boxShadow: '0 0 20px 5px gray' }}>
-           <h1 className={`${dancingScript.className} text-gray-300 text-center  text-[30px]`}>₹350</h1>
+           <h1 className={`${dancingScript.className} text-gray-300 text-center  text-[30px]`}>₹500</h1>
            <div className='w-full h-full flex flex-col items-center p-2 pb-8 gap-3'>
             <div className='flex flex-col justify-center items-center bg-black rounded-2xl w-full h-full'>
             <h1 className='text-gray-300 my-2 text-[25px] font-bold underline'>Include</h1>
@@ -248,7 +248,7 @@ gsap.to('.hi', {
         </div>
 
         <div className='w-[300px] h-[400px] bg-gradient-to-br from-[#2f2f2f] to-[#101010] pb-7 rounded-2xl shadow-[0px 0px 40px 10px gray] relative m-5' style={{ boxShadow: '0 0 20px 5px gray' }}>
-           <h1 className={`${dancingScript.className} text-gray-300 text-center  text-[30px]`}>₹500</h1>
+           <h1 className={`${dancingScript.className} text-gray-300 text-center  text-[30px]`}>₹1000</h1>
            <div className='w-full h-full flex flex-col items-center p-2 pb-8 gap-3'>
             <div className='flex flex-col justify-center items-center bg-black rounded-2xl w-full h-full'>
             <h1 className='text-gray-300 my-2 text-[25px] font-bold underline'>Include</h1>
@@ -260,7 +260,7 @@ gsap.to('.hi', {
         </div>
 
         <div className='w-[300px] h-[400px] bg-gradient-to-br from-[#2f2f2f] to-[#101010] pb-7 rounded-2xl shadow-[0px 0px 40px 10px gray] relative m-5' style={{ boxShadow: '0 0 20px 5px gray' }}>
-           <h1 className={`${dancingScript.className} text-gray-300 text-center  text-[30px]`}>₹1000</h1>
+           <h1 className={`${dancingScript.className} text-gray-300 text-center  text-[30px]`}>₹2500</h1>
            <div className='w-full h-full flex flex-col items-center p-2 pb-8 gap-3'>
             <div className='flex flex-col justify-center items-center bg-black rounded-2xl w-full h-full'>
             <h1 className='text-gray-300 my-2 text-[25px] font-bold underline'>Include</h1>
@@ -272,7 +272,7 @@ gsap.to('.hi', {
         </div>
 
         <div className='w-[300px] h-[400px] bg-gradient-to-br from-[#2f2f2f] to-[#101010] pb-7 rounded-2xl shadow-[0px 0px 40px 10px gray] relative m-5' style={{ boxShadow: '0 0 20px 5px gray' }}>
-           <h1 className={`${dancingScript.className} text-gray-300 text-center  text-[30px]`}>₹2000</h1>
+           <h1 className={`${dancingScript.className} text-gray-300 text-center  text-[30px]`}>₹5000</h1>
            <div className='w-full h-full flex flex-col items-center p-2 pb-8 gap-3'>
             <div className='flex flex-col justify-center items-center bg-black rounded-2xl w-full h-full'>
             <h1 className='text-gray-300 my-2 text-[25px] font-bold underline'>Include</h1>
